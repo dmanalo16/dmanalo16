@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dmanalo16
 - 👀 I’m interested in programming internships and honing my skills through project development.
-- 🌱 I’m currently learning finite automata, after learning data structures through Java.
 - 💞️ I’m looking to collaborate on projects to expand my knowledge.
 
 <!---
